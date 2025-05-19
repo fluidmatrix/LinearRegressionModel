@@ -4,6 +4,11 @@ import matplotlib.pyplot as plt
 from utils import *
 import copy
 import math
+"""
+The data types are still depriciated, which is yet to take care of
+, moreover, the cost function is yet to checked with, if the cost is correct
+or not!
+"""
 
 def compute_cost(x, y, w, b):
     """    
